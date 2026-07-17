@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
@@ -92,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
