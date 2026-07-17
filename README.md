@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
@@ -167,6 +168,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/dipu2930/Leetcode-Playlist/tree/master/3019-number-of-changing-keys) |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
