@@ -21,6 +21,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
@@ -83,6 +85,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
