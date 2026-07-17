@@ -141,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0058-length-of-last-word) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2942-find-words-containing-character) |
