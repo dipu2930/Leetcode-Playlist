@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
@@ -44,5 +45,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
