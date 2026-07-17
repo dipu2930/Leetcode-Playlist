@@ -71,6 +71,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0151-reverse-words-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2942-find-words-containing-character) |
