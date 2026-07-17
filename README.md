@@ -42,6 +42,7 @@
 | [0231-power-of-two](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1486-xor-operation-in-an-array) |
@@ -101,6 +102,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -180,6 +182,7 @@
 | [0058-length-of-last-word](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
