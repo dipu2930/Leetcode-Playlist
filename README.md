@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
