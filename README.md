@@ -37,6 +37,7 @@
 | [0009-palindrome-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1486-xor-operation-in-an-array) |
@@ -119,6 +120,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
