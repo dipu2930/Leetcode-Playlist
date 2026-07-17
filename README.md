@@ -10,12 +10,14 @@
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0001-two-sum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -61,4 +64,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
