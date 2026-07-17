@@ -131,4 +131,5 @@
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/dipu2930/Leetcode-Playlist/tree/master/3019-number-of-changing-keys) |
 <!---LeetCode Topics End-->
