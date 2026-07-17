@@ -24,6 +24,7 @@
 | [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -77,6 +78,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
@@ -137,6 +139,7 @@
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -161,6 +164,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
 |  |
 | ------- |
