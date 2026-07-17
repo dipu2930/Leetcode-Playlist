@@ -60,6 +60,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -140,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/dipu2930/Leetcode-Playlist/tree/master/3019-number-of-changing-keys) |
