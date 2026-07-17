@@ -1,4 +1,39 @@
 # Leetcode-Playlist
+
+A structured and continuously growing collection of **LeetCode problems** organized by topic to help learners master **Data Structures & Algorithms (DSA)** through understanding rather than memorization.
+
+## 📖 About
+
+This repository is designed as a personal learning resource and a guide for anyone preparing for coding interviews or improving their problem-solving skills. Each problem is categorized by topic and includes explanations to make the learning process more effective.
+
+## ✨ Features
+
+* 📂 Topic-wise problem categorization
+* 📝 Clear problem descriptions
+* 💡 Key concepts and intuition
+* 🛠️ Step-by-step approach
+* 💻 Clean and well-documented solutions
+* 🔄 Regularly updated with new problems
+
+## 🎯 Goal
+
+The primary goal of this repository is to:
+
+* Strengthen DSA fundamentals
+* Build strong problem-solving skills
+* Create a well-organized interview preparation resource
+* Learn concepts instead of memorizing solutions
+
+## 📌 Repository Status
+
+🚧 **Work in Progress**
+
+I'm actively solving new LeetCode problems and will continue updating this repository with more topics, optimized solutions, and detailed explanations.
+
+If you find this repository helpful, consider giving it a **⭐ Star**. Your support motivates me to keep improving and sharing more learning resources.
+
+Happy Coding! 🚀
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
