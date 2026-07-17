@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
