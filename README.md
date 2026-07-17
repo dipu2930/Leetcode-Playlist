@@ -24,6 +24,7 @@
 | [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2733-neither-minimum-nor-maximum) |
