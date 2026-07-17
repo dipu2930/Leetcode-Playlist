@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0128-longest-consecutive-sequence) |
+| [0485-max-consecutive-ones](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
