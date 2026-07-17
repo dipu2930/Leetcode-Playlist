@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -58,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
