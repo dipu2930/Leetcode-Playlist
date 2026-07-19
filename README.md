@@ -44,6 +44,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2965-find-missing-and-repeated-values) |
@@ -137,6 +139,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
