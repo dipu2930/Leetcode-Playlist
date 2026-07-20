@@ -62,6 +62,7 @@ Happy Coding! 🚀
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2733-neither-minimum-nor-maximum) |
@@ -243,4 +244,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
