@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [2652-sum-multiples](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/dipu2930/Leetcode-Playlist/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/dipu2930/Leetcode-Playlist/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
