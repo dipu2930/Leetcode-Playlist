@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -188,6 +189,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/dipu2930/Leetcode-Playlist/tree/master/3536-maximum-product-of-two-digits) |
@@ -195,6 +197,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
