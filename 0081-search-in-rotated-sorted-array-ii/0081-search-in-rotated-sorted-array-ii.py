@@ -12,12 +12,12 @@ class Solution:
                 high=high-1
                 continue
             if nums[mid]<=nums[high]:
-                if nums[mid]<=target<=nums[high]:
+                if nums[mid]<target<=nums[high]:
                     low=mid+1
                 else:
                     high=high-1
             else:
-                if nums[low]<=target<=nums[mid]:
+                if nums[low]<=target<nums[mid]:
                     high=mid-1
                 else:
                     low=mid+1
