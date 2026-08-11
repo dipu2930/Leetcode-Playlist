@@ -245,6 +245,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -257,6 +258,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
@@ -271,4 +273,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1480-running-sum-of-1d-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
