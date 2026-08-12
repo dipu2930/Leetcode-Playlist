@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -236,6 +237,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0334-increasing-triplet-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Happy Coding! 🚀
 | [0412-fizz-buzz](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/dipu2930/Leetcode-Playlist/tree/master/2942-find-words-containing-character) |
