@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0334-increasing-triplet-subsequence) |
@@ -171,6 +172,7 @@ Happy Coding! 🚀
 | ------- |
 | [0053-maximum-subarray](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -198,6 +200,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
@@ -210,6 +213,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1834-single-threaded-cpu) |
@@ -283,4 +287,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/dipu2930/Leetcode-Playlist/tree/master/1021-remove-outermost-parentheses) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dipu2930/Leetcode-Playlist/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
